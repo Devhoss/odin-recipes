@@ -1,6 +1,6 @@
 # odin-recipes
 We are starting a new project called 'odin recipes' which will contain the following:
-a set of recipes which you ca scroll through explore them
+a set of recipes which you can scroll through and explore them.
 to build such a website we are going to need to use some of our new set of skills we learned.
 Skills we'll be using:
 HTML
