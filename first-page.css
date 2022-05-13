@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(224, 230, 200);
+}
+
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+img {
+  filter: invert(100%);
+  display: block;
+  width: 500px;
+  height: 300px;
+  margin-left: 1%;
+  margin-right: auto;
+  margin-bottom: 100px;
+
+}
+
+#links {
+  color: rgb(255, 0, 0);
+}
+
+.reps {
+  color: rgb(22, 1, 1);
+  font-size: 20px;
+}
+
+footer {
+  color: rgb(215, 2, 2);
+  text-align: center;
+  margin-top: 100px;
+}
