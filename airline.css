@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(221, 210, 187);
+}
+h1 {
+  text-align: center;
+}
+
+img {
+  margin-bottom: 50px;
+  margin-left: 340px;
+}
+
+.sec1 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  font-size: 19px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.sec2 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(99, 69, 102);
+  padding: 20px;
+  margin-bottom: 20px;
+  font-size: 17px;
+}
+.sec3 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(226, 83, 52);
+  padding: 20px;
+  font-size: 17px;
+}
+.here {
+  background-color: black;
+}
+.blade {
+  background-color: black;
+}
